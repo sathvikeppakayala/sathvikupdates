@@ -1,5 +1,5 @@
 export const resumeData = {
-  name: "Eppakayala Sathvik",
+  name: "Sathvik Eppakayala",
   title: "Data Scientist & AI Engineer",
   location: "Warangal, Telangana, India",
   contact: {
