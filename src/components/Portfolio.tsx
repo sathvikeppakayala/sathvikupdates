@@ -228,7 +228,7 @@ export default function Portfolio() {
                   transition={{ duration: 0.8, ease: "easeOut" }}
                   className="text-5xl md:text-8xl font-black uppercase tracking-tighter mb-4"
                 >
-                  Architecture_<span className="text-emerald-500">Systems</span>
+                  Architecture<span className="text-emerald-500"></span>
                 </motion.h2>
                 <div className="h-1 w-24 bg-emerald-500 mx-auto rounded-full" />
               </div>
